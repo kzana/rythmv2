@@ -1,0 +1,27 @@
+{
+  "name": "jupiter",
+  "version": "1.5.0-dev",
+  "description": "Jupiter bot créé par Sworder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "Sworder",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "asciiart-logo": "^0.1.7",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.6",
+    "youtube-search": "^1.1.1",
+    "ytdl-core": "^0.20.4"
+  }
+}
